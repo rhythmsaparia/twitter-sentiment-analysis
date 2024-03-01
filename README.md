@@ -6,7 +6,7 @@ This project aims to do sentiment analysis on twitter tweets during pandemic. Ma
 
 **Technologies Used**
 
-Key Technologies:
+* Key Technologies:
     * Transformers (Bert)
     * TensorFlow/Keras
     * Twitter API
