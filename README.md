@@ -2,21 +2,23 @@
 
 **Project Description**
 
-* This project aims to do sentiment analysis on twitter tweets during pandemic. Machine learning and Deep learning techniques used : Naive bayes, Transformer(BERT).
+This project aims to do sentiment analysis on twitter tweets during pandemic. Machine learning and Deep learning techniques used : Naive bayes, Transformer(BERT).
 
 **Technologies Used**
 
-* Key Technologies:
+Key Technologies:
     * Transformers (Bert)
     * TensorFlow/Keras
     * Twitter API
     * matplotlib, seaborn
     * sklearn
 
-* **Python Version:**
-* 3.10.x
+**Python Version:**
+
+3.10.x
 
 **Dataset**
+
 Custom dataset created using twitter API
 
 **Results**
